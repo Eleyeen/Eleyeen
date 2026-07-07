@@ -129,7 +129,7 @@ Building scalable, high-performance mobile applications using Flutter & React Na
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/eleyeen-ahmed-0a86661a4/)">
 <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
 </a>
 

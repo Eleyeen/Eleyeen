@@ -1,146 +1,120 @@
-<div align="center">
+# Hi there, I'm Eleyeen Ahmed 👋
 
-# Hi, I'm Eleyeen Ahmed 👋
+### Senior React Native Developer | Mobile Architect | React Native • Expo • TypeScript
 
-### React Native Engineer · Mobile Architect
+*Building production, store-published mobile apps for 4+ years* 🚀
 
-Building production-grade, store-published mobile apps across logistics, wellness, real estate, and live-event discovery.
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-eleyeen--portfolio.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://eleyeen-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-FF3E00?style=for-the-badge&logo=vercel&logoColor=white)](https://eleyeen-portfolio.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eleyeen-ahmed-0a86661a4/)
-[![Email](https://img.shields.io/badge/Email-eleenawan69%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eleenawan69@gmail.com)
-
-</div>
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eleenawan69@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/Eleyeen?style=for-the-badge&logo=github)](https://github.com/Eleyeen)
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I'm a React Native engineer with **4+ years** of experience turning product ideas into polished, store-ready mobile applications. I've shipped **7 published apps** across the **App Store and Google Play**, serving users in **4+ countries**.
-
-My focus: clean modular architecture, typed API boundaries, predictable state management, and performance that holds up in production — not just in a demo.
-
-```txt
-const eleyeen = {
-  role: "React Native Developer / Mobile Architect",
-  based: "Islamabad, Pakistan",
-  experience: "4+ years",
-  focus: ["React Native", "Expo", "TypeScript", "Firebase", "App Architecture"],
-  philosophy: "Ship less complexity, more clarity.",
-};
-```
+- 🔭 Currently building **TarotApp** — a React Native app with an original 78-card dark-and-gold engraving-style tarot deck
+- ⚡ Specialized in **React Native architecture**, **cross-platform delivery**, and **App Store / Google Play release pipelines**
+- 📱 Shipped **7 published apps** across iOS and Android, serving users in **4+ countries**
+- 🏗️ Experienced in taking apps from **zero to production** — architecture, state, APIs, auth, and release
+- 🔐 Hands-on with **Firebase Auth, push notification pipelines, and real-time features (FCM, Firestore)**
+- 🌐 Check out my portfolio: **[eleyeen-portfolio.vercel.app](https://eleyeen-portfolio.vercel.app/)**
+- 📍 Based in Islamabad, Pakistan 🇵🇰
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Core**
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+### Mobile & Core
 
-**State & Data**
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-433E38?style=flat-square)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-**Backend & Services**
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
+### State Management & Data
 
-**Tooling & Platforms**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-433E38?style=for-the-badge)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Context API](https://img.shields.io/badge/Context_API-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
----
+### Backend, Auth & Real-Time
 
-## 📱 Featured Published Apps
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-<table>
-<tr>
-<td width="50%" valign="top">
+### Payments & Maps
 
-### 🚚 ZoomedXL Courier
-*2025 · iOS / Android*
+![RevenueCat](https://img.shields.io/badge/RevenueCat_/_IAP-6C5CE7?style=for-the-badge)
+![Google Maps](https://img.shields.io/badge/Maps_/_GPS-4285F4?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-On-demand courier logistics app connecting independent contractors to flexible local and regional delivery routes.
+### Tools & Workflow
 
-`React Native` `TypeScript` `Maps/GPS` `Push Notifications`
-
-[App Store](https://apps.apple.com/us/app/zoomedxl-courier/id6748822361) · [Google Play](https://play.google.com/store/apps/details?id=com.zoomedxl&hl=en)
-
-</td>
-<td width="50%" valign="top">
-
-### 💧 Siply
-*2026 · iOS*
-
-AI-assisted hydration & food-aware water tracking with Apple Health sync, AI coaching, and subscriptions.
-
-`React Native` `Apple Health` `RevenueCat` `AI Coaching`
-
-[App Store](https://apps.apple.com/us/app/siply-water-tracker-reminder/id6757113260)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎵 LiveMusic Local
-*2026 · iOS / Android*
-
-Local live-music discovery app for finding concerts, gigs, and venues nearby, with alerts and in-app subscriptions.
-
-`React Native` `Push Notifications` `In-App Purchases`
-
-[App Store](https://apps.apple.com/us/app/livemusic-local/id6756622544) · [Google Play](https://play.google.com/store/apps/details?id=life.magically.livemusicfinder&hl=en)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎓 Udlivery
-*2022 – 2026 · iOS / Android*
-
-University campus delivery marketplace for dining hall food, packages, and peer-to-peer drop-offs.
-
-`React Native` `Maps` `Payments`
-
-[Full case studies →](https://eleyeen-portfolio.vercel.app/projects)
-
-</td>
-</tr>
-</table>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 
 ---
 
-## 💼 Experience Snapshot
+## 💼 Experience Highlights
 
-| Role | Company | Period |
+| 🏢 Company | 💼 Role | 🗓️ Duration |
 |---|---|---|
-| React Native Developer | Vorixa Solutions (JanBark Technologies) | Jan 2026 – Present |
-| React Native Developer | Poshmaal Technologies | Oct 2024 – Dec 2025 |
-| React Native Developer | AH Group (RealtorsPK) | Mar 2023 – Aug 2024 |
-| Mobile App Developer (RN & Flutter) | Softech Square | Jan 2022 – Feb 2023 |
-| Mobile App Developer Intern | ApTechMedia | Aug 2021 – Dec 2021 |
+| **Vorixa Solutions (JanBark Technologies)** | React Native Developer | Jan 2026 – Present |
+| **Poshmaal Technologies** | React Native Developer | Oct 2024 – Dec 2025 |
+| **AH Group (RealtorsPK)** | React Native Developer | Mar 2023 – Aug 2024 |
+| **Softech Square** | Mobile App Developer (React Native & Flutter) | Jan 2022 – Feb 2023 |
+| **ApTechMedia** | Mobile App Developer Intern | Aug 2021 – Dec 2021 |
 
-**Highlights:** Shipped 6+ published apps · Delivered 12+ mobile products · Built Firebase auth, push notification, and real-time pipelines across multiple production apps · Designed scalable, modular React Native architectures adopted across teams.
+---
+
+## 🚀 Featured Projects
+
+### 🚚 ZoomedXL Courier — *iOS / Android*
+> On-demand courier logistics app connecting independent contractors to flexible local and regional delivery routes. Built with **React Native**, **TypeScript**, **Maps/GPS**, and push notifications.
+
+### 💧 Siply — *iOS*
+> AI-assisted hydration & food-aware water tracking app with **Apple Health sync**, AI coaching, push reminders, and **RevenueCat** subscription integration.
+
+### 🎵 LiveMusic Local — *iOS / Android*
+> Local live-music discovery app for finding concerts, gigs, and venues nearby, with favorites, alerts, and in-app subscriptions.
+
+### 🎓 Udlivery — *iOS / Android*
+> University campus delivery marketplace for dining hall food, packages, and peer-to-peer drop-offs, built with **React Native**, **Maps**, and payment integration.
+
+### 💆 Vibrant Life Med Spa — *iOS*
+> Med-spa app for effortless appointment booking, membership rewards, personalized treatment recommendations, and clinic updates.
+
+📂 Full case studies: **[eleyeen-portfolio.vercel.app/projects](https://eleyeen-portfolio.vercel.app/projects)**
 
 ---
 
 ## 📊 GitHub Stats
 
-<div align="center">
+![Eleyeen's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Eleyeen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eleyeen&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Eleyeen&theme=tokyonight&hide_border=true)
 
-![Eleyeen's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eleyeen&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Eleyeen&layout=compact&theme=tokyonight&hide_border=true)
+---
 
-</div>
+## 🎯 What I Bring to the Table
+
+```js
+const eleyeen = {
+  architecture: ["Modular Feature Folders", "Typed API Boundaries", "Reusable Components"],
+  stateStrategy: ["Redux Toolkit", "Zustand", "React Query", "Context API"],
+  delivery: ["App Store / Google Play Releases", "CI/CD Pipelines", "Store Compliance"],
+  realTime: ["Firebase Cloud Messaging", "Firestore", "Push Notification Systems"],
+  performance: ["Startup Time", "List Rendering", "Bridge Pressure", "Crash Reduction"],
+  methodology: "Agile, cross-team collaboration with designers & backend engineers",
+  currentFocus: "Original tarot deck app + reusable RN/Expo delivery systems 🎴"
+};
+```
 
 ---
 
@@ -151,12 +125,12 @@ University campus delivery marketplace for dining hall food, packages, and peer-
 
 ---
 
-## 📫 Let's Connect
+### 💬 Let's Connect!
 
-<div align="center">
+Open to React Native / mobile architecture roles and freelance collaborations.
 
-I'm open to React Native / mobile architecture roles and freelance collaborations.
+📧 **[eleenawan69@gmail.com](mailto:eleenawan69@gmail.com)** | 🌐 **[Portfolio](https://eleyeen-portfolio.vercel.app/)** | 💼 **[LinkedIn](https://www.linkedin.com/in/eleyeen-ahmed-0a86661a4/)**
 
-[![Portfolio](https://img.shields.io/badge/View_Full_Portfolio-eleyeen--portfolio.vercel.app-1a1a2e?style=for-the-badge)](https://eleyeen-portfolio.vercel.app/)
+![Profile Views](https://komarev.com/ghpvc/?username=Eleyeen&color=blueviolet&style=for-the-badge)
 
-</div>
+⭐ *From [Eleyeen](https://github.com/Eleyeen)*
